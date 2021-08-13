@@ -1,6 +1,6 @@
 
 
-#' Title
+#' Seal squishability function
 #'
 #' @param fatness a character string of estimated seal fatness
 #' @param friendly a number between 1 and 10 for how friendly this seal is

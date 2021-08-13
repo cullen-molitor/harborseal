@@ -2,7 +2,7 @@
 % Please edit documentation in R/seal_squishyness.R
 \name{seal_squishyness}
 \alias{seal_squishyness}
-\title{Title}
+\title{Seal squishability function}
 \usage{
 seal_squishyness(fatness, friendly)
 }
@@ -15,5 +15,5 @@ seal_squishyness(fatness, friendly)
 
 }
 \description{
-Title
+Seal squishability function
 }
