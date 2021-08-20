@@ -3,3 +3,4 @@
 export(seal_fatness)
 export(seal_loveability)
 export(seal_squishyness)
+export(theme_test)
